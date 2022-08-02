@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Please use the official https://github.com/espressif/esp-idf-ci-action
+
+If you used `action` in this action, it is now `command` in `espressif/esp-idf-ci-action`.
+
 # esp-idf-ci-action
 
 GitHub Action for ESP32 CI
